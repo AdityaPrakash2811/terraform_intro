@@ -5,6 +5,11 @@
 - Created network interface  with an ip in subnet and assigned an elastic ip to it.
 - Create an ec2 instance and installed/enabled apache in it using terraform only.
 
+Clone the repo - 
+```
+git clone https://github.com/AdityaPrakash2811/terraform_intro
+```
+
 ```
 terraform init
 terraform plan
