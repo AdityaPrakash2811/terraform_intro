@@ -10,6 +10,7 @@ Clone the repo -
 git clone https://github.com/AdityaPrakash2811/terraform_intro
 ```
 
+Run these commands - 
 ```
 terraform init
 terraform plan
